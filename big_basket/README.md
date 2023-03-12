@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+ <h1>Big-Basket Ecommerce</h1>
+ 
+ <h3>Description :</h3>
+It is a Grocery website where you can buy day to day grocery for your Household. We tried to implement all the feature I have mentioned below using the tech-Stack I have mentioned below. It is fully functional and responsive website.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>Deployed Link</h2>
+https://vaibhav-firke-makes-great-sites-e8301.netlify.app/
 
-## Available Scripts
+<h2>Team Members</h2>
+1.Nikhil <br>
+2.Vaibhav <br>
+3.Prateek <br>
+4.Bikram <br>
+5.Sammyak <br>
+ 
+ ---
 
-In the project directory, you can run:
+<h3>Tech Stack Used :</h3>
+<h5>⚡React</h5>
+<h5>⚡React Router</h5>
+<h5>⚡Redux</h5>
+<h5>⚡Chakra-Ui</h5>
+<h5>⚡Axios</h5>
+<h5>⚡JavaScript</h5>
+<h5>⚡HTML</h5>
+<h5>⚡CSS</h5>
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h3>Features :</h3>
+<h5>✨Home Page with Navbar and Footer</h5>
+<h5>✨Authentication</h5>
+<h5>✨Filter and sort products by rating and price</h5>
+<h5>✨Single Product Page</h5>
+<h5>✨Cart page</h5>
+<h5>✨Add address details and make payment </h5>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+<h3>Some Glimps of Project :</h3>
+<h5>✨Home Page with Navbar and Footer</h5>
+<img src="https://github.com/Nikhil-81/sleek-chance-4491/blob/main/bigbasket/Home.PNG"/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h5>✨Login Page</h5>
+<img src="https://github.com/Nikhil-81/sleek-chance-4491/blob/main/bigbasket/login%20page.PNG"/>
 
-### `npm run build`
+<h5>✨Products Page</h5>
+<img src="https://github.com/Nikhil-81/sleek-chance-4491/blob/main/bigbasket/Product%20Page.PNG"/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h5>✨Single Product</h5>
+<img src="https://github.com/Nikhil-81/sleek-chance-4491/blob/main/bigbasket/Single%20Product%20Page.PNG"/>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h5>✨Cart page</h5>
+<img src="https://github.com/Nikhil-81/sleek-chance-4491/blob/main/bigbasket/Cart%20Page.PNG"/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h5>✨Checkout/Delivery/Address/Payment Page </h5>
+<img src="https://github.com/Nikhil-81/sleek-chance-4491/blob/main/bigbasket/Checkout%20Page.PNG"/>
